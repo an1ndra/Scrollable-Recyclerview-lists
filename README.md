@@ -1,7 +1,5 @@
 # RecyclerView using Kotlin
-There are a number of pieces involved in creating and using a `RecyclerView`. You can think of them as a division of labor. The diagram below shows
-an overview, and you will learn more about each piece as you implement it.
-
+A simple RecyclerView implementation like this may be all you need. However, the library also offers many ways to customize your implementation. 4 things to make, do and learn for recyclerview.
 - **item** - One data item of the list to display. Represents one `Affirmation` object in your app.
 - **Adapter** - Takes data and prepares it for `RecyclerView` to display.
 - **ViewHolders** - A pool of views for `RecyclerView` to use and reuse to display affirmations.
@@ -17,4 +15,6 @@ Some YouTube tutorials for RecyclerView
 - [#8. RecyclerView in Android Studio Tutorial | News App | Android Development Tutorial 2021](https://www.youtube.com/watch?v=ttIfesjYDQQ)
 
 ## Extra useful resources for RecyclerView
-- 
+- [Vim in 100 Seconds](https://www.youtube.com/watch?v=-txKSRn0qeA)
+- [How I Use Vim in Android Studio](https://www.youtube.com/watch?v=ikTU7JzPURw)
+- [Vim Tutorial for Beginners](https://www.youtube.com/watch?v=RZ4p-saaQkc)
