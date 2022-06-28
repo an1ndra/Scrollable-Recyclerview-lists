@@ -4,9 +4,10 @@ A simple RecyclerView implementation like this may be all you need. However, the
 - **Adapter** - Takes data and prepares it for `RecyclerView` to display.
 - **ViewHolders** - A pool of views for `RecyclerView` to use and reuse to display affirmations.
 - **RecyclerView** - Views on screen
+![Alt text](https://developer.android.com/static/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list/img/4e9c18b463f00bf7.png "RecyclerView structure image")
 
 ## Tutorial link of RecyclerView
- [Official Android Tutorial Using Kotlin](https://developer.android.com/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-2-pathway-3%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-recyclerview-scrollable-list#6)
+[Official Android Tutorial Using Kotlin](https://developer.android.com/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-2-pathway-3%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-recyclerview-scrollable-list#6)
 
 ## Extra tutorial for RecyclerView
 Some YouTube tutorials for RecyclerView
