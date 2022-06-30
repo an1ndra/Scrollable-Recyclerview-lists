@@ -15,7 +15,7 @@ import com.codeavenge.scrollablelists.model.Affirmation
 class ItemAdapter(
     private val context: Context,
     private val dataset: List<Affirmation>
-) : RecyclerView.Adapter<ItemAdapter.ItemViewHolder>() {
+) : RecyclerView.Adapter<ItemAdapter.ItemViewHolder>()   {
 
     // Provide a reference to the views for each data item
     // Complex data items may need more than one view per item, and
